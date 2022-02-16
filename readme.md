@@ -1,5 +1,5 @@
 
-1. [ ] change conflicting sdmserver ports config at end of sdmserver/applicationdata/sdm-config.yml
+1. change conflicting sdmserver ports config at end of sdmserver/applicationdata/sdm-config.yml
 2.  change sdmclient config <code>[0/2]</code>
     - [ ] app server
     - [ ] citrix share
